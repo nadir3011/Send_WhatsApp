@@ -19,7 +19,15 @@
         <activity
             android:name=".Activity.Main2Activity"
             android:label="@string/title_activity_main2"
+<<<<<<< HEAD
             android:theme="@style/AppTheme"></activity>
+=======
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".simple_list.Main3Activity"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/AppTheme.Template.Base"></activity>
+>>>>>>> tambah belajar
     </application>
 
 </manifest>
